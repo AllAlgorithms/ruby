@@ -1,0 +1,10 @@
+system('clear')
+
+p 'insira um valor'
+valor = gets.chomp.to_i
+ system('clear')
+
+
+valor = valor - 1
+
+p 'O valor antecessor é ' + "#{valor}"
