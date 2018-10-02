@@ -1,5 +1,3 @@
-# Given a linked list, can you find the nth element from the end
-#
 class Node
   attr_accessor :data, :next
 
