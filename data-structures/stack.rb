@@ -28,4 +28,17 @@ class Stack
   def peek
     @top.data if @top
   end
+
 end
+
+stack = Stack.new
+stack.push 1
+puts stack.inspect
+
+stack.push 2
+puts stack.inspect
+
+stack.pop
+puts stack.inspect
+
+puts stack.peek
