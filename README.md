@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="27%" src="http://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg">
+	<img width="400" height="270" src="http://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg">
 	<br>
 	<br>
 	<img src="https://cdn.abranhe.com/projects/algorithms/algorithms.svg" width="400px">
