@@ -54,7 +54,7 @@
 
 - [Is Binary Tree BST?](data-structures/is_binary_tree_bst.rb)
 - [Linked List](data-structures/linked_list.rb)
-- [Slack](data-structures/slack.rb)
+- [Stack](data-structures/stack.rb)
 
 <!-- ## Divide & conquer -->
 
