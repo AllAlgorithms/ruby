@@ -22,6 +22,5 @@ def encode(string)
   encoded_text.join('')
 end
 
-# TEST!
 puts encode('Hello World')
 # => AABBBAABAAABABAABABAABBABBABAAABBABBAAAAABABAAAABB
